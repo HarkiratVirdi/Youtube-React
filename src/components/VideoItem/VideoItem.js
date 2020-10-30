@@ -2,8 +2,6 @@ import React from "react";
 import "./VideoItem.css";
 
 function VideoItem({ data, video }) {
-  console.log(data);
-
   let Info = data.snippet;
   return (
     <div className="flex-container">

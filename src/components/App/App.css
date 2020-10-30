@@ -2,6 +2,7 @@
     color: black;
     text-align: center;
     padding: 1rem;
+    font-size: 3rem;
     margin-top: 1rem;
 }
 
@@ -9,3 +10,25 @@
     margin-top: 0.2rem;
     text-align: left;
 }
+
+.displayNoVideo{
+    padding: 0.4rem;
+    margin-bottom: 1.2rem;
+}
+
+.app{
+    text-align: center;
+}
+
+.flex-box{
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-start;
+}
+
+@media only screen and (max-width: 1200px) {
+    .flex-box{
+        flex-direction: column;
+
+  }
+} 

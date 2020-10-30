@@ -1,0 +1,9 @@
+.box{
+    padding: 0rem 1rem;
+    width: 100%;
+    text-align: left;
+}
+
+iframe{
+    border : none;
+}
