@@ -1,0 +1,13 @@
+.Input{
+    outline: none;
+    border: none;
+    width: 50%;
+    border-bottom: 1px solid black;
+    margin-bottom: 2rem;
+}
+
+.container{
+    margin: auto;
+    max-width: 80%;
+    text-align: center;
+}
